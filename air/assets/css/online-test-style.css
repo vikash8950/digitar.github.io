@@ -1,0 +1,78 @@
+.bg-orange{background-image: url(../images/black.jpg);background-size: cover;height: 100%;}
+.login-box{
+	background-color: rgba(255,255,255,0.85);
+	border-radius: 4px;
+	border:2px solid #3e7ddc; 
+	width: 70%;
+	margin:auto;
+	padding: 50px;
+}
+.login-box .form-control{margin-top: 20px;}
+
+.btn-orange{
+    background-color: #3e7ddc !important;
+    color: #fff;
+    font-weight: 700;
+    border:none;
+    padding: 10px 15px;
+}
+.online-test-head{
+			background-color: transparent;
+			border-bottom:2px solid #3e7ddc;
+			padding-top: 30px;
+		}
+		.online-test-head .navbar-brand {
+			font-size:24px;
+			color:#3e7ddc;
+			font-weight: 900;
+			padding-top: 0;
+		}
+		.online-test-head-btn{
+			color: #fff;
+			font-weight: 900;
+			font-size: 16px;
+			padding: 10px 15px;
+			margin: 30px 10px 20px 0;
+			border:2px solid #3e7ddc;
+			border-radius: 4px;
+		}
+		.brand-box{
+			height: 100px;
+			width: 100px;
+			margin: 40px auto;
+			font-size: 40px;
+			font-weight: bold;
+			padding-top: 20px;
+			text-align: center;
+			color: #fff;
+			border-radius: 50%;
+			border:2px solid #fff;
+			background-color: #3e7ddc;
+			position: relative;
+			top: 100px;
+		}
+		.login-btn,.signup-btn{
+			padding-top: 30px;
+		}
+		.login-btn a{
+			background-color: #3e7ddc;
+			color: #fff;
+			font-size: 16px;
+			padding: 10px 15px;
+			margin-top: 40px;
+
+		}
+		.register-box{
+			background-color: rgba(255,255,255,0.85);
+			border-radius: 4px;
+			border:2px solid #3e7ddc; 
+			padding: 10px;
+			width: 70% !important;
+			margin: 100px auto 0px auto;
+		}
+		.login-btn a:hover{text-decoration: none}
+		.signup-btn a:hover{color: #3e7ddc;text-decoration: none;}
+		.online-heading {color: #fff;padding-top: 160px;}
+		.online-heading h1{margin: 0;font-weight: 900;font-size: 40px;}
+		.online-heading  p{font-weight: 700;}
+		.footer-info-sec2{position: fixed;bottom: 0;width: 100%}
