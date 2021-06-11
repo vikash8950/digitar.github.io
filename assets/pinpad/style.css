@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.demo-loading {
+    visibility: hidden;
+}
+
+table {
+    font-size: 1em;
+}
+
+.demo-description {
+    clear: both;
+    padding: 12px;
+}
+ui-widget-header .ui-state-hover, .ui-state-focus,.ui-widget-content .ui-state-focus,
+.ui-widget-header .ui-state-focus,.ui-button:hover, .ui-button:focus,.ui-state-default,
+.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default, .ui-button,
+html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active,
+.ui-state-active, .ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active,
+a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{border: 0}
+.ui-pinpad .ui-pinpad-num-pad table td,.ui-pinpad table td{
+    border: 1px solid #fff;
+    border-left: 0
+}
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br{border-radius: 0;}
+.ui-pinpad .ui-pinpad-key, .ui-pinpad .ui-pinpad-command {
+    background: #00D1D1;
+    color: #fff;
+}
